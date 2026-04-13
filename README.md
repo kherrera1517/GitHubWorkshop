@@ -2,6 +2,9 @@
 Simple Workshop for GitHub Workshop Series @ HMC CS Dept.
 
 # Demonstration
+This demo assumes you're a contributor on a repo, you're part of a team and
+you're tasked with implementing a feature on a project.
+
 1. Create a branch
 2. Make some edits
 3. git status
