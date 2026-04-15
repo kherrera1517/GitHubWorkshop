@@ -16,6 +16,8 @@ you're tasked with implementing a feature on a project.
 8. git push origin branch
 9. PR on GitHub (approving your own PR as admin)
 10. git status
+11. git branch -v
+12. git brand -d cs60demo
 
 test line
 
