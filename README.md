@@ -17,3 +17,5 @@ you're tasked with implementing a feature on a project.
 9. PR on GitHub (approving your own PR as admin)
 
 test line
+
+CS60 is the best!
