@@ -22,3 +22,5 @@ you're tasked with implementing a feature on a project.
 test line
 
 CS60 is the best!
+
+I love git!
