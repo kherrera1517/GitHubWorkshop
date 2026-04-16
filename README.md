@@ -22,3 +22,5 @@ you're tasked with implementing a feature on a project. 'git status' throughout!
 14. git branch -d cs60demo
 
 ---------------------------------------------------------------------------------
+
+I love git AND CS60! >:)
