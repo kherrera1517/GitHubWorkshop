@@ -20,6 +20,7 @@ you're tasked with implementing a feature on a project. 'git status' throughout!
 12. git status
 13. git pull origin main
 14. git branch -d cs60demo
+15. buy chelsey boba !!
 
 ---------------------------------------------------------------------------------
 
